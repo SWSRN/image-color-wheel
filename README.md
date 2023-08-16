@@ -1,5 +1,5 @@
 # image-color-wheel
-This web app loads an image and then creates two color wheels, one based on the modern Red-Green-Blue system and the other on the traditional Red-Yellow-Blue system. They are shown with 24 color bins each, as opposed to the usual 12 colors. The relative intensities of the hues in the image reflect the portion of the image with each hue. 
+This web app loads an image and then creates two color wheels, one based on the modern Red-Green-Blue system and the other on the traditional Red-Yellow-Blue system. They are shown with 24 color bins each, as opposed to the usual 12 colors. The relative size of the pie-slices for each of the hues in the image reflects the portion of the image with that hue. 
 
 Some diagrams of common "color harmonies" are along the right-hand edge, for the purposes of comparison with the color wheels. The color harmonies have been developed over time for the traditional RYB color wheel.
 
