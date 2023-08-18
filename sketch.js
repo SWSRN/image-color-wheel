@@ -220,8 +220,8 @@ function printHelp() {
      (xmargin), (ymargin +round(27.8*yheight_inputs )));
   textSize(14);
   text('Junk text', (ymargin +round(28.8*yheight_inputs )));
-  text('www.ssccphotography.org\/explore-the-color-wheel-and-color-harmony-of-your-image\/',(xmargin), 
-      (ymargin +round(28.8*yheight_inputs )));
+  //text('www.ssccphotography.org\/explore-the-color-wheel-and-color-harmony-of-your-image\/',(xmargin), 
+  //    (ymargin +round(28.8*yheight_inputs )));
   textSize(18);
  
  
