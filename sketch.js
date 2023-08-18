@@ -262,7 +262,7 @@ function setup() {
  
   background('white'); // white. If not set, it will default to alpha transparency.
 
-  printHelp();
+  // printHelp();
   
   fill(0, 0, 100);  // black
  
