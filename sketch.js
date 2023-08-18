@@ -216,9 +216,14 @@ function printHelp() {
      (xmargin), (ymargin +round(25.8*yheight_inputs )));
   text('will visually pop and vibrate. More so with RGB than RYB.',  
      (xmargin), (ymargin +round(26.8*yheight_inputs )));
-
   text('On touch screens, tap instead of drag sliders to avoid scrolling.',  
-     (xmargin), (ymargin +round(28.8*yheight_inputs )));
+     (xmargin), (ymargin +round(27.8*yheight_inputs )));
+ textSize(14);
+ text('https://www.ssccphotography.org/explore-the-color-wheel-and-color-harmony-of-your-image/,(xmargin), 
+      (ymargin +round(28.8*yheight_inputs )));
+  textSize(18);
+ 
+ 
 
 } //========== printHelp ===========
 
