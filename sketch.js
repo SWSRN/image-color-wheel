@@ -219,8 +219,8 @@ function printHelp() {
   text('On touch screens, tap instead of drag sliders to avoid scrolling.',  
      (xmargin), (ymargin +round(27.8*yheight_inputs )));
   textSize(14);
-  //text('www.ssccphotography.org\/explore-the-color-wheel-and-color-harmony-of-your-image\/',(xmargin), 
-  //    (ymargin +round(28.8*yheight_inputs )));
+  text('www.ssccphotography.org\/explore-the-color-wheel-and-color-harmony-of-your-image\/',(xmargin), 
+      (ymargin +round(28.8*yheight_inputs )));
   textSize(18);
  
  
@@ -262,7 +262,7 @@ function setup() {
  
   background('white'); // white. If not set, it will default to alpha transparency.
 
-  // printHelp();
+  printHelp();
   
   fill(0, 0, 100);  // black
  
